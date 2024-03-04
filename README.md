@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Brian Hou
 - 🌱 I’m currently a student at Purdue University studying Robotics Engineering Technology
+- ✨ Visit my personal website at brianhou.net
 - 📫 You can reach me via brianhou818 (at) gmail (dot) com
 
 <!---
